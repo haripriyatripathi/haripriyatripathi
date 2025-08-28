@@ -11,7 +11,7 @@
 
 <p>3rd year cse | delhi | app dev (kotlin + spring boot) • backend • devops • fintech.</p>
 
-<p>i’m all about building apps, backend systems, and devops pipelines, with some fintech experiments on the side. always down to try new tech, ship fast, and keep leveling up 🚀</p>
+<p>i’m all about building apps, backend systems, and devops pipelines, with some fintech experiments on the side. always down to try new tech, ship fast, and keep leveling up.</p>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Left side: list -->
