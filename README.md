@@ -1,4 +1,10 @@
 # My XP: 
+<!-- Profile View Count -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=haripriyatripathi&label=Profile+Views&color=3533cd&style=flat-square" alt="Profile View Counter" />
+</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,80:3533cd&height=160&section=header&text=Haripriya%20%20%20%20Tripathi&fontSize=40&fontAlignY=38&animation=twinkling&fontColor=FFFFFF&fontFamily=cursive" width="100%">
 
 <!-- ⌨️ Typing SVG (Fira Code, size 32, duration 2800, pause 2000, centered) -->
