@@ -52,12 +52,11 @@
 </p>
 
 ## LeetCode Badges
-<div align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="200px" />
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200px" />
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="200px" />
+<div align="center" style="display:flex; gap:20px; justify-content:center;">
+  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="200px" style="animation: spin 6s linear infinite;"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200px" style="animation: spin 6s linear infinite;"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="200px" style="animation: spin 6s linear infinite;"/>
 </div>
-
 ## Tech Stack:
 <p align="center" style="display:flex; flex-wrap: wrap; gap:12px; justify-content:center;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" height="60"/>
