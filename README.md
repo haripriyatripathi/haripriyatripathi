@@ -55,6 +55,7 @@
 <div align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="200px" />
   <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="200px" />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="200px" />
 </div>
 
 ## Tech Stack:
