@@ -43,9 +43,7 @@
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1292842024092827659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hariprixya/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haripriyatripathi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/haripriyaxtri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haripriyatripathix@gmail.com) 
 
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31c3wtnuvmmj3catgnvklqalr67m&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c3wtnuvmmj3catgnvklqalr67m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false">
-  </a>
+
 
 ## LeetCode Stats
 <p align="center">
